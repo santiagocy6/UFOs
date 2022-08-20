@@ -13,3 +13,6 @@ If, for example, you only wanted to search for UFO sightings in New York State, 
 As you can see, this filtered the results to only show sightings from New York State.
 
 You can search with multiple filters! For example, if I only wanted to find sightings in the US where the shape is a triangle, I would type 'us' into 'Enter Country' and 'triangle' into 'Enter Shape'.
+
+
+I also attached some screenshots where you can see the results that I describe on the analysis. 
